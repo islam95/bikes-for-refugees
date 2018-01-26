@@ -36,6 +36,23 @@ body {
 .btn {
 	border-radius: 0.15em;
 }
+/* ----- New ----- */
+.btn-red {
+	color: #ffffff;
+	background-color: #ce5f31;
+	border-color: #ce5f31;
+}
+.btn-red:hover, .btn-red:focus {
+	background-color: #bbb4b1;
+	border-color: #bbb4b1;
+}
+
+.text-red {
+	color: #ce5f31;
+}
+.text-red:hover, .text-red:focus {
+	background-color: #50cf70;
+}
 
 /* Alert */
 .alert {
